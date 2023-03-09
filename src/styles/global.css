@@ -1,0 +1,11 @@
+.text-ellips {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.btn.disabled,
+.btn:disabled,
+fieldset:disabled .btn {
+  border: none;
+}
