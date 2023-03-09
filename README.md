@@ -1,7 +1,7 @@
 # Shopping Cart using React and redux-toolkit
 React shopping cart using rtk query, redux persist store, redux store and bootstrap
 
-### Project Features
+### Project Features: [Live Demo](https://muhib-react-redux-shopping-cart.netlify.app/)
 - Get product using RTK query
 - Add to cart and quantity show on cart button
 - Save cart items using redux persist (only cart saved)
